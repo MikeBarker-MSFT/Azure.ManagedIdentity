@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>df79f600-61f9-410f-9d74-b6bc942109bd</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.Azure.KeyVault" Version="3.0.2" />
+    <PackageReference Include="Microsoft.Azure.Services.AppAuthentication" Version="1.0.3" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.AzureKeyVault" Version="2.1.1" />
+  </ItemGroup>
+
+</Project>

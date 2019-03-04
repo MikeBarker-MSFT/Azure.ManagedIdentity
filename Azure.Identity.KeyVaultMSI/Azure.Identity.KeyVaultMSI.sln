@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Identity.KeyVaultMSI", "Azure.Identity.KeyVaultMSI\Azure.Identity.KeyVaultMSI.csproj", "{252AE5C0-DC4A-48E9-95C0-3B9D23E0BD7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252AE5C0-DC4A-48E9-95C0-3B9D23E0BD7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252AE5C0-DC4A-48E9-95C0-3B9D23E0BD7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{252AE5C0-DC4A-48E9-95C0-3B9D23E0BD7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{252AE5C0-DC4A-48E9-95C0-3B9D23E0BD7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2037DE0A-7D4D-44A4-B899-6323C1B271AD}
+	EndGlobalSection
+EndGlobal
